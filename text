@@ -1,0 +1,5 @@
+tenserflow 2.10.1
+cudnn 1.8
+cuda 11.6
+python 10.4
+jupiter+typeextentions latest
